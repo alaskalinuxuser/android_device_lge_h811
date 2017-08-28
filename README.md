@@ -1,6 +1,6 @@
 Copyright 2015 - The CyanogenMod Project
 
-Edited for AOKP Nougat by the AlaskaLinuxUser
+Edited for OmniRom Nougat by the AlaskaLinuxUser
 https://thealaskalinuxuser.wordpress.com
 
 Device configuration for LG G4 (T-Mobile).

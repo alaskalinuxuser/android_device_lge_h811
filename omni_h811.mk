@@ -1,12 +1,9 @@
 $(call inherit-product, device/lge/h811/full_h811.mk)
 
-# Inherit some common AOKP stuff.
-$(call inherit-product, vendor/aokp/configs/common_full_phone.mk)
+# Inherit some common Omni stuff.
+$(call inherit-product, vendor/omni/config/common.mk)
 
-# Enhanced NFC
-# $(call inherit-product, vendor/aokp/configs/nfc_enhanced.mk)
-
-PRODUCT_NAME := aokp_h811
+PRODUCT_NAME := omni_h811
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_DEVICE="g4" \
